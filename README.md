@@ -26,12 +26,10 @@ Se non está feito, executar php:
 
 7. Queremos cambiar a url para que sirva os contidos por idiomas cunha url amigable como http://www.servidor.com/en
 
-	7.1. Cear un direcorio `es` e `gal` con sendos index traducidos
+	7.1. Crear un direcorio `en` e `gal` con sendos index traducidos
 	7.2.Engadimos no .htaccess as seguintes reglas:
 
         RewriteCond %{QUERY_STRING} lang=(.*)
         RewriteRule ^index.php$ /%1/$1
-
-    7.3. Xa non necesitamos o index.php
 	
 Lembra que tras crear ou facer cambios no .htaccess NON hai que reiniciar o servidor (non somos admin)
