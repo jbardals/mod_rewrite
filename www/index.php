@@ -8,13 +8,13 @@
 
        
     <?php
-      if($_GET["lang"]=="es")
+      if($_GET["lang"]=="gal")
               {
-                    echo "<h1>Bienvenido a la página web</h1>";
+                    echo "<h1>Benvidos donas e cabaleiros</h1>";
               }
       if($_GET["lang"]=="en")
               {
-                    echo "<h1>Welcome to the website</h1>";
+                    echo "<h1>Welcome ladies&gentlemen</h1>";
               }
       ?>
   </body>
