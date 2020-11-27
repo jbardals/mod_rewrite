@@ -14,6 +14,7 @@ URLs "amigables":
 www.dominio.com/articulos/23.php
 
 www.dominio.com/pueblos/melide.php
+
 O módulo rewrite úsase por CMS como Wordpress para poder seleccionar formatos máis amigables para construir as URL das páxinas e artículos do sitio web.
 
 
