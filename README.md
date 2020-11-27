@@ -10,6 +10,7 @@ www.dominio.com/articulos/muestra.php?id=23
 www.dominio.com/pueblos/pueblo.php?nombre=melide
 
 URLs "amigables":
+
 www.dominio.com/articulos/23.php
 
 www.dominio.com/pueblos/melide.php
