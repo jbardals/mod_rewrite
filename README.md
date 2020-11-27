@@ -6,10 +6,12 @@ INTRODUCCION
 Permite usar unha URL "amigable" e internamente estar accedendo a outra URL que é a que manexa o documento interno escrito en linguaxe de servidor. Exemplos:
 
 www.dominio.com/articulos/muestra.php?id=23
+
 www.dominio.com/pueblos/pueblo.php?nombre=melide
 
 URLs "amigables":
 www.dominio.com/articulos/23.php
+
 www.dominio.com/pueblos/melide.php
 O módulo rewrite úsase por CMS como Wordpress para poder seleccionar formatos máis amigables para construir as URL das páxinas e artículos do sitio web.
 
